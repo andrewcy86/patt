@@ -1,0 +1,8 @@
+---
+applications:
+- name: mantisbt
+  memory: 512M
+  disk_quota: 512M
+  path: .
+  buildpack: php_buildpack
+  host: mantisbt
