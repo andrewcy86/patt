@@ -1,9 +1,9 @@
 <?php
-$g_hostname               = 'cg-aws-broker-prod-1563a3ac0048.ci7nkegdizyy.us-gov-west-1.rds.amazonaws.com';
+$g_hostname               = '';
 $g_db_type                = 'mysqli';
-$g_database_name          = 'cgawsbrokerprodl4qgzpwdalft4dl';
-$g_db_username            = 'u5zze49w7fedc2y2';
-$g_db_password            = 't8zmo3cypaji6o7s2rjeosdi6';
+$g_database_name          = '';
+$g_db_username            = '';
+$g_db_password            = '';
 
 $g_default_timezone       = 'UTC';
 
